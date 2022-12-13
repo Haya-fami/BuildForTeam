@@ -1,0 +1,28 @@
+
+
+.card{
+    align-items: center;
+    text-align: center;
+    
+    border: none;
+    margin: 10vh 10vh 10vh 12vh;
+    padding: 0;
+    
+    
+}
+
+.card-text{
+    font-weight: 600;
+    font-size: large;
+    color: rgb(16, 108, 173);
+}
+
+h6{
+    color: rgb(16, 108, 173); 
+    font-weight: 700;
+}
+
+h5{
+    color: rgb(16, 108, 173); 
+    font-weight: 700; 
+}
